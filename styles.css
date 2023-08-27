@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.hero{
+	width:600px;
+	height:200px;
+	background-color:red;
+	display:flex;
+	justify-content:flex;
+	align-items:flex;
+/* 	margin:0px; */
+/* 	padding:100px; */
+	
+ } 
+/* .hero>img{ */
+/* 	width:100px; */
+/* 	height:200px; */
+/* } */ */
